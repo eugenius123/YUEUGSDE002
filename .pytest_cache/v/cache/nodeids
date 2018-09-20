@@ -1,5 +1,0 @@
-[
-  "tests.py::test_goodread_open_page",
-  "tests.py::test_user_login",
-  "tests.py::test_most_liked_quote"
-]
